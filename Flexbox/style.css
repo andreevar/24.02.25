@@ -1,0 +1,21 @@
+.Flex-container{
+    display: flex;
+    border: 2px solid black;
+    width: 300px;
+}
+
+.flex-item {
+    text-align: center;
+    font-size: 1.1em;
+    padding: 1.5em;
+    color: black;
+}
+
+.inline-flex-container{
+    display: inline-flex;
+    margin-top: 10px;
+}
+
+.color1 {background-color: blueviolet;}
+.color2 {background-color: red;}
+.color3 {background-color: blue;}
